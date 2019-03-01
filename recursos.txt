@@ -1,0 +1,19 @@
+para la imagen del dragon derechos de autor
+<a href='https://www.freepik.es/vector-gratis/dragon-silueta_787696.htm'>Vector de Animal creado por freepik</a>
+
+Para tener disponible el FONT
+<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+
+Specify in CSS
+Use the following CSS rules to specify these families:
+
+font-family: 'Rubik', sans-serif;
+
+
+
+
+
+
+
+
+,

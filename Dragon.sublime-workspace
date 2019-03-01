@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"leng",
+				"length-1"
+			],
+			[
+				"compa",
+				"compactar"
+			],
+			[
+				"edita",
+				"editando"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Index.html",
+			"settings":
+			{
+				"buffer_size": 215,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/droman/Google Drive/Distmah/HTML/Distmah/2cursos.html",
+			"settings":
+			{
+				"buffer_size": 66284,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/droman/Downloads/install-ubuntu-1204-9.sh",
+			"settings":
+			{
+				"buffer_size": 9299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/droman/Google Drive/Distmah/HTML/Distmah/js/actuprecios.js",
+			"settings":
+			{
+				"buffer_size": 1576,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/lista.xspf",
+		"/C/Users/droman/Google Drive/Distmah/HTML/Distmah/js/application.js",
+		"/C/Users/droman/Google Drive/Distmah/HTML/Distmah/js/myscript.js",
+		"/C/Program Files (x86)/AdmiCond/AdmiCond Ultimat 8.5/AdmiCondUltimate85.exe",
+		"/C/Estudios/A-html/WEB/Index.html",
+		"/C/Estudios/A-html/prueba.html",
+		"/C/Soportes/Distmah/web/pruebas.html",
+		"/C/Estudios/Miriadax/Introducción a Linux como entorno de desarrollo de sistemas/Evaluaciones/droman64.txt",
+		"/C/Estudios/Miriadax/Introducción a Linux como entorno de desarrollo de sistemas/Ejemplo de Shell Script resuelto 6.4.txt",
+		"/F/Estudios/Linux/mcal",
+		"/G/Autodesk/Autodesk_VBS2015_ENU_32-64bit_dlm/en-us/CER/exampleDesc.htm",
+		"/C/Users/droman/Downloads/adove/Texto",
+		"/C/Users/droman/Downloads/wmigen/wmigen.hta",
+		"/C/Program Files (x86)/Rockola ASE/C_RK.sys",
+		"/C/Program Files (x86)/Rockola ASE/Rokobox.ini",
+		"//Rt-n56u/patriot/Juanga/Photo.scr",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 10/mod_10/mod_10/T37-CronometroMovil/config.xml",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 10/mod_10/mod_10/T37-CronometroMovil/index.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 10/mod_10/mod_10/T36-Cronometro/10-index.html",
+		"/C/Estudios/Phonegap/cronometro/www/index.html",
+		"/C/Estudios/Phonegap/primer/www/index.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/Evaluacion/css/citas_slide.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 1/mod_01/mod_01/02_Estructura_HTML/02_abbr.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/Evaluacion/mypath.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/Evaluacion/M9 P2P Obligatorio.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 10/mod_10/mod_10/T37-CronometroMovil/cordova.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/mod_09/21-image_adjust_svg_zepto.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/mod_09/06-geo_routes.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/Evaluacion/M8 p2p_Obligatorio.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/mod_08/21-for_iframe.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/Evaluacion/M9 P2P opcional.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/Evaluacion/compress.svg",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/Evaluacion/rueda-dentada2.svg",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/mod_09/mypath.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/mod_08/20-iframe_Pixie.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/mod_09/00-geolocation.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/mod_09/01-geolocation2.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/mod_09/05-geo_marker.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 9/mod_09/mod_09/gmaps.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/Evaluacion/javascript/galeria.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 2/mod_02/mod_02/01_Estructura_CSS/04_div07.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/Evaluacion/P2PObligatoria_calculadora.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/Evaluacion/images/rueda-dentada.svg",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/mod_08/25-for_iframe_localStorage.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/Evaluacion/M8 P2P opcional.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/mod_08/01-cronometro_start_stop.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/Evaluacion/M7p2p_Obligatorio.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/Evaluacion/css/citas_slide.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/Evaluacion/jquery.mobile-1.4.5.min.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/Evaluacion/zepto.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 8/mod_08/Evaluacion/zepto.min.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/50-citas_editar/citas_slide_editar_jQuery.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/50-citas_editar/css/citas_slide.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/mod_04/01-if-else.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/Evaluacion/javascript/galeria.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/45-citas_carrusel/css/citas_slide.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/45-citas_carrusel/10-citas_carrusel_jQuery.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/45-citas_carrusel/10-citas_carrusel.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/45-citas_carrusel/javascript/galeria.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/41-citas_foto/10-citas_jQuery.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/41-citas_foto/10-citas.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/Evaluacion/M6p2p_calculadora.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/30-arrays/03-editar_frases.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/30-arrays/01-editar_frases_jQuery_for.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/30-arrays/02-editar_frases_jQuery_forEach.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/40_citas_url/10-citas.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/40_citas_url/10-citas_jQuery.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/30-arrays/jquery-2.1.4.min.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 7/mod_07/mod_07/20-tipos/00-object_avatar.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/Evaluacion/M6 pop opcional.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/Evaluacion/M6p2p_calculadorav2.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/30-bootstrap/prueba div editabled.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/Evaluacion/M6p2p_Obligatorio.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/Evaluacion/M6p2p_puzzle.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 2/mod_02/mod_02/01_Estructura_CSS/04_div01.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/Evaluacion/03 view-source_francisco-mayorgas.neocities.org_calculadoraJquery.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/Evaluacion/02 calculadora_jquery.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/jquery-ui-1.12.1.custom/jquery-ui-1.12.1.custom/prueba.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/30-bootstrap/PRUEBA1.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/40-ej_bootstrap/10-index.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/30-bootstrap/10-menu2.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/30-bootstrap/10-botones.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/40-ej_bootstrap/10-ejercicio_puzzle_compr.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/Evaluacion/P2PObligatoria_calculadoraM5.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/20-tangram/10-tangram_random.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/20-tangram/10-tangram_propiedad.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/jquery-ui-1.12.1.custom/jquery-ui-1.12.1.custom/index.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/15-event/15-event_jQuery_mobile.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/20-tangram/10-tangram_funcion.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/11-puzzle_touch_punch/10-puzzle_touch_punch.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/10-puzzle/10-puzzle.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/00-objects/12-object_dynamic_prop.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/jquery-ui-1.12.1.custom/jquery-ui-1.12.1.custom/external/jquery/jquery.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/00-objects/13-object_for-in.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/00-objects/14-window_inspect_jQuery.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/00-objects/15-window_inspect.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 6/mod_06/mod_06/00-objects/jquery.mobile-1.4.5.min.js",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/Evaluacion/01 index.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/43_event_jQuery.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/09-sumatorio_for_compr.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 1/mod_01/mod_01/02_Estructura_HTML/02_div02.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 1/mod_01/mod_01/02_Estructura_HTML/02_div03.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/45-calculadora_jquery.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/37-date_jquery_cdn.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/36-date_jquery_ready.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/42-event_propiedad.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/40_event_html.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/41-event_listener.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/15-veces_forEach.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 5/mod_05/mod_05/20-ambito_1.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/mod_04/12-number.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/mod_04/06-date_if_saludo.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/mod_04/05-Date_methods.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/mod_04/02-if.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/mod_04/00-bool.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 4/mod_04/mod_04/10-string.htm",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 2/Evaluaciones1/01obligatorio mod 2.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 2/Evaluaciones1/p2p Obligatoria/p2p Obligatoria/obligatoriaM2.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 3/evaluacion/01 Mod_3_p2p.html",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 2/Evaluaciones1/p2p Obligatoria/p2p Obligatoria/estiloM2E3.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 1/mod_01/mod_01/02_Estructura_HTML/estilo.css",
+		"/F/Estudios/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 1/mod_01/mod_01/01_mi_primera_pagina/11-mi_primera_pagina2.html",
+		"/G/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 1/mod_01/mod_01/01_mi_primera_pagina/x-mi_primera_pagina2 - cop.html",
+		"/G/Introducción al desarrollo en HTML5, CSS y JavaScript de Apps Web/modulo 1/mod_01/mod_01/01_mi_primera_pagina/10-mi_primera_pagina2.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sin_",
+			"invs",
+			"scrip",
+			"num.val(",
+			"draggable",
+			"acc",
+			"$(\"#opr\")",
+			"HTML",
+			"value",
+			"document.getElementById(\"opr\").innerHTML=",
+			"document.getElementById(\"opr\").innerHTML=\"",
+			"onClick"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"+num.html(",
+			"num.html(",
+			"draggable_rot",
+			"vopr",
+			"html",
+			"val()",
+			"$(\"opr\").HTML(",
+			"Id"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/droman/Google Drive/Distmah/HTML/Distmah/2cursos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64384,
+								64384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/droman/Downloads/install-ubuntu-1204-9.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/droman/Google Drive/Distmah/HTML/Distmah/js/actuprecios.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1573,
+								1573
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Dragon.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
